@@ -12,7 +12,7 @@
         <li>Data Science</li>
         <li>Backend Development</li>
     </ul>
-    <p>🌱 I’m currently learning / My current stack:</p>
+    <h2>🌱 I’m currently learning / My current stack:</h2>
     <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
         <img src="https://github.com/121074-fani/perfil_support/blob/main/java.png?raw=true" alt="Logo Java" width="40" height="40" title="Java">
         <img src="https://github.com/121074-fani/perfil_support/blob/main/c.png?raw=true" alt="Logo C" width="40" height="40" title="C">
@@ -22,6 +22,11 @@
         <img src="https://github.com/121074-fani/perfil_support/blob/main/148-1484226_image-python-circle-logo.png?raw=true" alt="Logo Python" width="40" height="40" title="Python">
     </div>
     <h3>🤝 Get in touch:</h3>
+    <ul>
+        [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-parrales-20826534a/)
+        [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](.)
+        [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/paravestefani/)
+    </ul>
     </body>
 </html>
 
