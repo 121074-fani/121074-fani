@@ -6,8 +6,7 @@
 <body>
     <h1>¡Hello, World! 👋</h1>
     <h2>I'm Fani. Nice to meet 'u!</h2>
-    
-    <h3>👀 I’m interested in. . .</h3>
+    <h2>👀 I’m interested in. . .</h2>
     <ul>
         <li>Analyst of BD (Business Data / Big Data)</li>
         <li>Data Science</li>
