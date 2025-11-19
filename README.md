@@ -12,9 +12,7 @@
         <li>Data Science</li>
         <li>Backend Development</li>
     </ul>
-
     <p>🌱 I’m currently learning / My current stack:</p>
-    
     <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
         <img src="https://github.com/121074-fani/perfil_support/blob/main/java.png?raw=true" alt="Logo Java" width="40" height="40" title="Java">
         <img src="https://github.com/121074-fani/perfil_support/blob/main/c.png?raw=true" alt="Logo C" width="40" height="40" title="C">
@@ -23,7 +21,6 @@
         <img src="https://github.com/121074-fani/perfil_support/blob/main/sql.png?raw=true" alt="Logo SQL" width="40" height="40" title="SQL">
         <img src="https://github.com/121074-fani/perfil_support/blob/main/148-1484226_image-python-circle-logo.png?raw=true" alt="Logo Python" width="40" height="40" title="Python">
     </div>
-    
     <h3>🤝 Get in touch:</h3>
     </body>
 </html>
