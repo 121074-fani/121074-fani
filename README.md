@@ -7,8 +7,6 @@
     <h1>¡Hello, World! 👋</h1>
     <h2>I'm Fani. Nice to meet 'u!</h2>
     
-    <hr>
-    
     <h3>👀 I’m interested in. . .</h3>
     <ul>
         <li>Analyst of BD (Business Data / Big Data)</li>
@@ -26,8 +24,6 @@
         <img src="https://github.com/121074-fani/perfil_support/blob/main/sql.png?raw=true" alt="Logo SQL" width="40" height="40" title="SQL">
         <img src="https://github.com/121074-fani/perfil_support/blob/main/148-1484226_image-python-circle-logo.png?raw=true" alt="Logo Python" width="40" height="40" title="Python">
     </div>
-    
-    <hr>
     
     <h3>🤝 Get in touch:</h3>
     </body>
