@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Perfil de Fani</title>
-</head>
 <body>
     <h1>¡Hello, World! 👋</h1>
     <h2>I'm Fani. Nice to meet 'u!</h2>
@@ -22,9 +19,9 @@
         <img src="https://github.com/121074-fani/perfil_support/blob/main/148-1484226_image-python-circle-logo.png?raw=true" alt="Logo Python" width="40" height="40" title="Python">
     </div>
     <h3>🤝 Get in touch:</h3>
-    <ul>
-       
-    </ul>
+    <p align = "left">
+        <a href="https://www.instagram.com/paravestefani/">
+            <img alt="Instagram" tittle ="Instagram perfil" src="
     </body>
 </html>
 
